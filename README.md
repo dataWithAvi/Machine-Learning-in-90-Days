@@ -1,6 +1,6 @@
 # Get Ready to Dive into Machine Learning: My 90-Day Journey 🚀
 
-In this series of mini-blogs / jupyter notebooks, I'll be sharing my journey as I learn machine learning, deep learning, math for ML and DL, statistics, and Python. My goal is to get a solid foundation in all of these subjects and build some mini projects in ML and DL over the next 90 days, while also dedicating 60 days to studying data structures and algorithms. 💪
+In this repository, I'll be sharing my journey as I learn machine learning, deep learning, math for ML and DL, statistics, and Python. My goal is to get a solid foundation in all of these subjects and build some mini projects in ML and DL over the next 90 days, while also dedicating 60 days to studying data structures and algorithms. 💪
 
 Throughout this series, I'll be sharing my progress, insights, and any challenges I encounter as I focus on hands-on on both conceptual learning and practical learning using Python.
 
